@@ -31,4 +31,5 @@ About Me Markdown [AboutMe.md](AboutMe.md)
 ### Quotes!
 
 >"This isn't a chicken or an egg problem, Kooper is just wrong." ~ *Charles Hoot*
+
 >"There is a significant overlap between the dumbest tourist and the smartest bear." ~ *Yellowstone National Park Ranger, on the subject of bear-proof trashbins*
