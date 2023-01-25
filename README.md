@@ -33,3 +33,20 @@ About Me Markdown [AboutMe.md](AboutMe.md)
 >"This isn't a chicken or an egg problem, Kooper is just wrong." ~ *Charles Hoot*
 
 >"There is a significant overlap between the dumbest tourist and the smartest bear." ~ *Yellowstone National Park Ranger, on the subject of bear-proof trashbins*
+
+-------------------------------------------------
+### A small segment from a CSS Stack Overflow question
+
+>However, there are cases when a said effect can be achieved either way. A simple and common example would be implement the facebook style sliding drawer menu:
+>This effect can be achieved through transitions like so:
+
+```
+.sf-page {
+    -webkit-transition: -webkit-transform .2s ease-out;
+}
+
+.sf-page.out {
+    -webkit-transform: translateX(240px);
+}
+```
+Source of code/question [Source](https://stackoverflow.com/questions/20586143/css-animation-vs-transition)
