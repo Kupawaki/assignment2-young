@@ -7,7 +7,10 @@ I like football mostly because it requires a group of people to be **perfectly c
 #### Favorite Team / Players
 Kansas City Chiefs
 
-Best Players - Patrick Mahomes, Travis Kelce, Harrison Butker
+Best Players
+1. Patrick Mahomes 
+2. Travis Kelce
+3. Harrison Butker
 
 Other Fun Teams
 * Green Bay Packers
