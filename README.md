@@ -18,3 +18,11 @@ Other Fun Teams
 * San Francisco 49ers
 
 About Me Markdown [AboutMe.md](AboutMe.md)
+
+--------------------------
+### Tables!
+| Country     | Why to Visit?                               | How Long? |
+| ------------| ------------------------------------------- | ----------|
+| Japan       | Amazing food, great culture                 | 3 weeks   |
+| Netherlands | My friend Tom lives there, and he is great  | 2 days    |
+| Italy       | Amazing food with amazing views             | 7 hours   |
